@@ -1,0 +1,100 @@
+########################## hero area ##########################
+hero:
+  title: "I'm Muhammad Lutfi R"
+
+  # animated text loop
+  occupations:
+    - 'Web Developer'
+    # - 'Pharmaceutical Salesman'
+    # - 'Private Detective'
+
+  # hero background image
+  bg_image: 'images/05.jpg'
+  # optional mobile breakpoint background
+  mobile_bg_image: 'images/01.jpg'
+
+########################### About ##################################
+about:
+  enable: true
+  image: 'images/02.jpg'
+  title: 'THIS IS ME'
+  content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [Facebook, or by Instagram](#contact) !
+  button:
+    enable: true
+    label: 'DOWNLOAD MY RESUME'
+    link: https://docs.google.com/document/d/1Hn2Anb_zGI-M0i2K31s5UiIg4_ltDLNQlVo8vgjeSHY/edit?usp=sharing
+    icon: 'fa-download'
+
+###########################3 Experience ##############################
+experience:
+  enable: true
+  title: 'EXPERIENCE'
+  experience_list:
+    - name: Web Developer
+      company: PT Enakans Media Teknologi
+      duration: '2021-Current'
+      content: I make/development websites.
+
+    # - name: Private Detective
+    #   company: Psych
+    #   duration: '2019-2020'
+    #   content: Okay. This is hard to explain but I’m going to give it a shot. You and I are opening our own private detective agency.
+
+    # - name: Pharmaceutical Salesman
+    #   company: South Coast Pharmaceuticals
+    #   duration: '2012-2018'
+    #   content: We are not bounty hunters, Shawn. I am a pharmaceutical salesman. And Lassiter made it very clear! He said in no uncertain terms. These are certain terms, Shawn! Certain terms!
+
+############################### Skill #################################
+skill:
+  enable: true
+  title: 'SOME SKILLS'
+  showpercent: false
+  skill_list:
+    - name: 'PHP'
+      percentage: '80%'
+
+    - name: 'Golang'
+      percentage: '60%'
+
+    - name: 'Javascript'
+      percentage: '70%'
+
+    - name: 'SQL'
+      percentage: '70%'
+
+######################### funfacts #############################3
+funfacts:
+  enable: false
+  funfacts_list:
+    - name: 'WORKMATE'
+      image: 'images/icons/coffee.png'
+      count: '2'
+
+    - name: 'SITES DEV'
+      image: 'images/icons/web-development.png'
+      count: '3'
+
+    - name: 'ALWAYS'
+      image: 'images/icons/happy.png'
+      count: '1'
+
+############################# portfolio ################################
+portfolio:
+  enable: true
+  title: 'MY WORK'
+  portfolio_list:
+    - name: Web Development
+      image: 'images/portfolio/1.png'
+      url : https://www.enakans.co.id/
+      description: Create or Develop sites for Clients in my Office and for now I have not received a personal project if you want to use my services you can visit my office website.
+
+    - name: Youtube Creator
+      image: 'images/portfolio/2.png'
+      url: https://www.youtube.com/channel/UCozg62PAPaPrdnBmWUQdXDg
+      description: In between my busy schedule, I sometimes create content related to the use of technology on my YouTube channel
+
+    - name: just wanna Have Fun
+      image: 'images/portfolio/3.png'
+      url: https://gohugo.io
+      description: lately I'm studying the static web from Hugo
