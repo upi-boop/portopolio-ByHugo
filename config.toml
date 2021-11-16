@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://web-portofolio.onrender.com/"
+baseURL = "https://example.com"
 title = "Lutfi Ridwan"
 theme = "port-hugo"
 
