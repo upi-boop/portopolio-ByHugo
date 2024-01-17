@@ -32,7 +32,11 @@ experience:
   experience_list:
     - name: Web Developer
       company: PT Enakans Media Teknologi
-      duration: '2021-Current'
+      duration: '2021-2023'
+      content: I make/development websites.
+    - name: Web Developer
+      company: PT Amerta Indah Otsuka
+      duration: '2023-Current'
       content: I make/development websites.
 
     # - name: Private Detective
@@ -88,13 +92,13 @@ portfolio:
       image: 'images/portfolio/1.png'
       url : https://www.enakans.co.id/
       description: Create or Develop sites for Clients in my Office and for now I have not received a personal project if you want to use my services you can visit my office website.
+  - name: Web Development
+        image: 'images/portfolio/1.png'
+        url : https://www.enakans.co.id/
+        description: Create or Develop sites for Clients in my Office and for now I have not received a personal project if you want to use my services you can visit my office website.
+  - name: Web Development
+        image: 'images/portfolio/1.png'
+        url : https://www.enakans.co.id/
+        description: Create or Develop sites for Clients in my Office and for now I have not received a personal project if you want to use my services you can visit my office website.
 
-    - name: Youtube Creator
-      image: 'images/portfolio/2.png'
-      url: https://www.youtube.com/channel/UCozg62PAPaPrdnBmWUQdXDg
-      description: In between my busy schedule, I sometimes create content related to the use of technology on my YouTube channel
-
-    - name: just wanna Have Fun
-      image: 'images/portfolio/3.png'
-      url: https://gohugo.io
-      description: lately I'm studying the static web from Hugo
+    
