@@ -18,7 +18,7 @@ about:
   enable: true
   image: 'images/DSC07324.jpg'
   title: 'THIS IS ME'
-  content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [Facebook, or by Instagram](#contact) !
+  content: Hi, I am a Full Stack Developer with over 3 years of experience in the IT consulting and FMCG industries. Enthusiastic and skilled, I possess expertise in end-to-end application development using various technologies such as JavaScript, PHP, and Go. During my tenure at the IT consulting firm, I successfully delivered innovative solutions for clients, while in the FMCG sector, I enhanced operational efficiency through a deep understanding of technology. I am committed to continually developing my skills and am always ready to make a positive contribution to the team
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
