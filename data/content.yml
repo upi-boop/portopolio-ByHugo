@@ -16,13 +16,13 @@ hero:
 ########################### About ##################################
 about:
   enable: true
-  image: 'images/02.jpg'
+  image: 'images/DSC07324.jpg'
   title: 'THIS IS ME'
   content: Hi, thank you for taking a look around my site. If you have any questions feel free to reach out on [Facebook, or by Instagram](#contact) !
   button:
     enable: true
     label: 'DOWNLOAD MY RESUME'
-    link: https://docs.google.com/document/d/1Hn2Anb_zGI-M0i2K31s5UiIg4_ltDLNQlVo8vgjeSHY/edit?usp=sharing
+    link: https://drive.google.com/file/d/1ezcFFSpaGr7ZxfteicCo9z-Yax_ZFw2x/view?usp=sharing
     icon: 'fa-download'
 
 ###########################3 Experience ##############################
