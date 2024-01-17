@@ -92,10 +92,12 @@ portfolio:
       image: 'images/portfolio/1.png'
       url : https://www.enakans.co.id/
       description: Create or Develop sites for Clients in my Office and for now I have not received a personal project if you want to use my services you can visit my office website.
+  
   - name: Web Development
         image: 'images/portfolio/1.png'
         url : https://www.enakans.co.id/
         description: Create or Develop sites for Clients in my Office and for now I have not received a personal project if you want to use my services you can visit my office website.
+  
   - name: Web Development
         image: 'images/portfolio/1.png'
         url : https://www.enakans.co.id/
