@@ -88,19 +88,12 @@ portfolio:
   enable: true
   title: 'MY WORK'
   portfolio_list:
-    - name: Web Development
+    - name: 'Web Development'
       image: 'images/portfolio/1.png'
-      url : https://www.enakans.co.id/
-      description: Create or Develop sites for Clients in my Office and for now I have not received a personal project if you want to use my services you can visit my office website.
-  
-  - name: Web Development
-        image: 'images/portfolio/1.png'
-        url : https://www.enakans.co.id/
-        description: Create or Develop sites for Clients in my Office and for now I have not received a personal project if you want to use my services you can visit my office website.
-  
-  - name: Web Development
-        image: 'images/portfolio/1.png'
-        url : https://www.enakans.co.id/
-        description: Create or Develop sites for Clients in my Office and for now I have not received a personal project if you want to use my services you can visit my office website.
-
+      url: 'https://www.enakans.co.id/'
+      description: 'Create or develop sites for clients in my office. Currently, I have not received any personal projects. If you want to use my services, you can visit my office website.'
+    - name: 'Another Web Development Project'
+      image: 'images/portfolio/2.png'
+      url: 'https://www.example.com/'
+      description: 'Description for another web development project.'
     
