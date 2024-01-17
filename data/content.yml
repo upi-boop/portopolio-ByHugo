@@ -93,7 +93,7 @@ portfolio:
       url: 'https://www.enakans.co.id/'
       description: 'Create or develop sites for clients in my office. Currently, I have not received any personal projects. If you want to use my services, you can visit my office website.'
     - name: 'Another Web Development Project'
-      image: 'images/portfolio/2.png'
+      image: 'images/portfolio/1.png'
       url: 'https://www.example.com/'
       description: 'Description for another web development project.'
     
